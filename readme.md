@@ -1,5 +1,5 @@
-Name: Chin Tian You
+Name: Chan Tai Ming
 <br>
-ID: 20605387
+ID: 12345678
 <br>
 ![alt text](./screenShot.png)
